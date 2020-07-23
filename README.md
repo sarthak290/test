@@ -130,8 +130,8 @@ One has to follow these steps to use ShopEasy app and get familier with it:
  - Admin can add products, add categories, add brands, add image sliders, view the list of orders received and can also see the list of users in the users panel.
  - One can also change the theme of the app in the settings panel.
  - Available themes:
-  - Light
-  - Dark
+   - Light
+   - Dark
 
  ## File manifest
 
