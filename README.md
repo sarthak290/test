@@ -154,4 +154,4 @@ One has to follow these steps to use ShopEasy app and get familier with it:
 
 For any kind of Support and help please contact via mail given below.
 
-Support mail: [sarthaksbi@gmail.com](sarthaksbi@gmail.com)
+Support mail: [sarthaksbi@gmail.com](mailto:sarthaksbi@gmail.com)
