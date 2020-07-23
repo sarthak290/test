@@ -1,7 +1,7 @@
 ### ShopEasy App
 ## Flutter App made by Team MATRIX using Firebase for CodeCamp 1.0
 
-![shopEasy](https://ibb.co/M9GPrW8.png)
+![shopEasy](https://github.com/sarthak290/test/blob/master/Lo2.png)
 
 ### About ShopEasy App
 
