@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864216706883",
+    "firebase_url": "https://shopEasyapp-16c50.firebaseio.com",
+    "project_id": "shopEasyapp-16c50",
+    "storage_bucket": "shopEasyapp-16c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864216706883:android:b04f5ba8c5a0d54833c9f6",
+        "android_client_info": {
+          "package_name": "com.flutter.shopEasyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864216706883-3tk7lhi8gp46mjuvec0evaku62oi1er0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBurHmvax335VoE8fD1Yc-YLaKlPgBf2l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864216706883-3tk7lhi8gp46mjuvec0evaku62oi1er0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
