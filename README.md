@@ -8,8 +8,8 @@
 ShopEasy is an mobile application which is based on Flutter framerwork, made by Google. With the ambition of providing a platform to help the people of our country, ShopEasy gives a complete solution for optimizing your business with high productivity and cost-efficiency. It will give all the users ability to satisfy their business requirements which involves e-commerce functionality, attractive UI design and smooth performance. The app is supported on both Android and ios devices.
 
 ShopEasy is made for following people and businesses:
- -Business people with growth ambition.
- -Small scale businesses limited to small cities and towns.
+ - Business people with growth ambition.
+ - Small scale businesses limited to small cities and towns.
  -Businesses affected by COVID-19.
  -New comers who are starting their business from home due to being financially effected by COVID-19.
  -People who can't reach the shops to buy products.
