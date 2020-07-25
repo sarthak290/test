@@ -1,7 +1,9 @@
-# ShopEasy App
+# ShopEasy App (95% Completed)
 ## Flutter App made by Team MATRIX using Firebase for CodeCamp 1.0
 
 ![shopEasy](https://github.com/sarthak290/test/blob/master/lo2.PNG)
+
+### Please read all the [installation instruction](https://github.com/sarthak290/ShopEasy#installation-instruction) carefully before installing the app on your device
 
 ## About ShopEasy App
 
@@ -11,11 +13,11 @@ ShopEasy is made for following people and businesses:
 
  - Business people with growth ambition.
  - Small scale businesses limited to small cities and towns.
- - Businesses affected by COVID-19.
+ - Businesses effected by COVID-19.
  - New comers who are starting their business from home due to being financially effected by COVID-19.
  - People who can't reach the shops to buy products.
 
-Our aim to spread awareness about locally popular brands and products so that they can attract customers out of their localities and cities. In this way our App ShopEasy promotes our Prime Minister's Atma Nirbhar Bharat campaign by providing small businesses and self-employed workers from any part of the countrya platform for their business growth. This will encourage Atma-Nirbhar(Self-independent) nature among people of India, which will lead us to better future.
+Our aim is to spread awareness about locally popular brands and products so that they can attract customers out of their localities and cities. In this way our App ShopEasy promotes our Prime Minister's Atma Nirbhar Bharat campaign by providing small businesses and self-employed workers from any part of the country a platform for their business growth. This will encourage Atma-Nirbhar(Self-independent) nature among people of India, which will lead us to better a future.
 
 
 
@@ -25,7 +27,7 @@ Our aim to spread awareness about locally popular brands and products so that th
 - Sign In and Sign Up using Email
 - Sign In using Facebook
 - Sign In using Google
-- Phone authentication by flutter firebase (Test: +918218036636, CODE: 333333)
+- Phone authentication by flutter firebase (Test: +911234567890, CODE: 333333)
 - Clean and Well documented code
 - Used Bloc pattern
 - Custom Carousel Slider
@@ -44,8 +46,20 @@ Our aim to spread awareness about locally popular brands and products so that th
 ## Installation Instruction
 
 Apk file will be released for the app. Users can download the app on both Android and ios devices.
+ - Make sure that there is minimum 800 MB space free in your device Internal memory.
+ - There are two types of role assigned in the app:
+   - user
+   - admin
+ - Only admins can use the Admin features like Add Product, Add category ,Add Brand etc.
+ - To test the app as a admin login with following details:
+   - email: email@email.com
+   - password: ssssssss1
+ - To test the app as a user login with any of the login methods like facebook, google etc.
+ - Any new individual user who wants to be an admin of the app has to send a mail to [support](mailto:sarthaksbi@gmail.com) requesting admin permissions mentioning all the user details.
+ - Our team will respond to your request within no time.
 
-To setup the app code in your system , you should have flutter installed in your system if not the install [flutter](https://flutter.dev/docs/get-started/install).
+
+To setup the app code in your system , you should have flutter installed in your system if not then install [flutter](https://flutter.dev/docs/get-started/install).
 
 Open the code on either Android Studio or VsCode with flutter support already installed and download the required dependencies of the app.
 
@@ -120,13 +134,13 @@ One has to follow these steps to use ShopEasy app and get familier with it:
    - Phone authentication
  - You can now see the products on home screen. 
  - See trending and featured products.
- - You can also add them your wishlist or if you want to buy them just add them to your cart.
+ - You can also add them in your wishlist or if you want to buy them just add them to your cart.
  - To buy the product just go to your cart and confirm the address details and select payment methods.
  - To complete the purchase just click on confirm and your order will be placed.
 
  - To become a admin of the app i.e. to sell your products on the app and to setup the app according to your way, the business owner will have to send a request to grant admin permissions via mail to the [support](https://mail.google.com/) email given below.
- - Once receiving the request our team will make you admin within no time.
- - Once you are admin you can opem the side Navigation Drawer to view the admin features.
+ - On receiving the request our team will make you admin within no time.
+ - Once you are admin you can open the side Navigation Drawer to view the admin features.
  - Admin can add products, add categories, add brands, add image sliders, view the list of orders received and can also see the list of users in the users panel.
  - One can also change the theme of the app in the settings panel.
  - Available themes:
